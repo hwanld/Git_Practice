@@ -1,6 +1,5 @@
 Git을 연습하기 위한 repository입니다! 이동환
 
-저의 기술 스택 :
+저의 관심사 :
 1. SpringBootFramework
-2. Python3, C++ Algorithm
-3. HTML, CSS, VanilaJS
+2. Algorithm with Python
